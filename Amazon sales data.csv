@@ -1,0 +1,501 @@
+order_id,user_id,product_id,category,price,TotaQuantity,TotalPrice,order_date.1,order_time,order_date.3,country,customer_segment,Year,Month Name,Days in Month,Week of Month,Quarter,Hour
+100007,1239,445,Books,31.17,1,31.17,10-Dec-23,08:36:37,PM,United States,Low-Value,2023,December,31,3,4,8
+100014,770,368,Books,6.74,1,6.74,08-Jan-22,03:55:43,AM,United States,Low-Value,2022,January,31,2,1,3
+100016,1516,145,Books,20.04,1,20.04,28-Jan-25,12:41:06,AM,Brazil,Low-Value,2025,January,31,5,1,12
+100021,2325,319,Books,7.07,1,7.07,15-Oct-23,07:18:00,AM,Germany,Low-Value,2023,October,31,3,4,7
+100022,1185,477,Toys,32.12,1,32.12,06-Dec-23,05:57:08,PM,India,Low-Value,2023,December,31,2,4,5
+100023,460,331,Clothing,44.87,1,44.87,20-Jan-23,12:05:45,PM,India,Low-Value,2023,January,31,3,1,12
+100027,2905,104,Home,79.77,1,79.77,12-Oct-22,05:51:05,AM,United States,Low-Value,2022,October,31,3,4,5
+100028,475,75,Grocery,16.88,1,16.88,16-May-23,02:12:53,AM,Netherlands,Low-Value,2023,May,31,3,2,2
+100033,976,278,Sports,89.26,1,89.26,20-Jan-25,05:49:43,AM,Brazil,Low-Value,2025,January,31,4,1,5
+100034,1807,345,Books,24.88,1,24.88,28-Jul-23,08:12:14,AM,France,Low-Value,2023,July,31,5,3,8
+100035,190,19,Sports,106.76,1,106.76,13-Aug-23,09:38:38,PM,United States,Low-Value,2023,August,31,3,3,9
+100043,2069,13,Grocery,32.46,1,32.46,16-Jul-23,10:36:11,PM,Australia,Low-Value,2023,July,31,4,3,10
+100049,2364,156,Grocery,31.64,1,31.64,06-Dec-22,04:39:28,AM,United States,Low-Value,2022,December,31,2,4,4
+100050,2062,77,Beauty,55.73,1,55.73,06-Jan-25,12:38:47,AM,Canada,Low-Value,2025,January,31,2,1,12
+100051,242,419,Books,20.75,1,20.75,02-Mar-25,05:17:07,PM,Brazil,Low-Value,2025,March,31,2,1,5
+100059,1479,456,Clothing,48.35,1,48.35,02-Jul-24,05:56:11,PM,Italy,Low-Value,2024,July,31,1,3,5
+100061,776,297,Grocery,29,1,29,18-Jul-22,08:08:56,PM,United States,Low-Value,2022,July,31,4,3,8
+100062,35,112,Clothing,106.65,1,106.65,05-Jul-24,02:02:40,PM,China,Low-Value,2024,July,31,1,3,2
+100065,1586,96,Books,10.39,1,10.39,21-Oct-24,04:43:14,AM,Canada,Low-Value,2024,October,31,4,4,4
+100066,1022,438,Clothing,50.95,1,50.95,14-Jul-25,10:22:41,PM,Spain,Low-Value,2025,July,31,3,3,10
+100067,2614,168,Beauty,53.27,1,53.27,31-Jul-24,12:55:15,AM,France,Low-Value,2024,July,31,5,3,12
+100071,2450,105,Sports,125.45,1,125.45,31-Dec-23,06:58:42,AM,Germany,Low-Value,2023,December,31,6,4,6
+100073,1580,489,Grocery,48.25,1,48.25,26-Aug-23,02:56:35,AM,United States,Low-Value,2023,August,31,4,3,2
+100078,2318,382,Clothing,38.65,1,38.65,18-Oct-23,09:50:59,AM,United Kingdom,Low-Value,2023,October,31,3,4,9
+100080,456,431,Sports,129.93,1,129.93,24-Aug-23,03:52:38,PM,Germany,Low-Value,2023,August,31,4,3,3
+100083,2344,38,Toys,83.46,1,83.46,14-Dec-24,04:09:41,PM,India,Low-Value,2024,December,31,2,4,4
+100089,2265,450,Grocery,26.44,1,26.44,21-Mar-22,11:20:03,PM,Brazil,Low-Value,2022,March,31,4,1,11
+100090,764,331,Sports,39.41,1,39.41,15-Jan-24,11:43:51,PM,India,Low-Value,2024,January,31,3,1,11
+100091,2236,253,Clothing,116.13,1,116.13,31-Jul-24,06:29:42,PM,India,Low-Value,2024,July,31,5,3,6
+100093,493,451,Toys,29.18,1,29.18,13-Dec-23,02:51:07,AM,United States,Low-Value,2023,December,31,3,4,2
+100095,2063,274,Grocery,29.06,1,29.06,27-May-24,10:57:25,AM,United Kingdom,Low-Value,2024,May,31,5,2,10
+100097,2569,239,Beauty,28.09,1,28.09,11-May-25,07:37:59,AM,Mexico,Low-Value,2025,May,31,3,2,7
+100098,1368,270,Home,92.2,1,92.2,11-Dec-23,05:52:58,AM,Spain,Low-Value,2023,December,31,3,4,5
+100100,2028,433,Clothing,23.26,1,23.26,25-Jul-22,05:44:47,AM,United States,Low-Value,2022,July,31,5,3,5
+100106,392,186,Clothing,91.68,1,91.68,08-Mar-25,09:56:07,AM,United States,Low-Value,2025,March,31,2,1,9
+100110,379,281,Beauty,82.41,1,82.41,29-Jul-25,09:22:46,PM,France,Low-Value,2025,July,31,5,3,9
+100111,1797,447,Toys,22.97,1,22.97,30-Oct-23,09:43:04,AM,United Kingdom,Low-Value,2023,October,31,5,4,9
+100112,2279,253,Grocery,17.69,1,17.69,27-Dec-22,07:06:44,PM,United Kingdom,Low-Value,2022,December,31,5,4,7
+100121,1752,342,Sports,21.68,1,21.68,14-Jan-25,10:53:19,PM,United States,Low-Value,2025,January,31,3,1,10
+100133,503,480,Toys,12.62,1,12.62,13-Jan-23,02:21:07,PM,France,Low-Value,2023,January,31,2,1,2
+100137,2843,53,Books,35.74,1,35.74,10-May-24,10:10:26,AM,South Africa,Low-Value,2024,May,31,2,2,10
+100140,1039,203,Grocery,44.02,1,44.02,15-Dec-23,07:29:40,PM,India,Low-Value,2023,December,31,3,4,7
+100142,2940,136,Home,59.45,1,59.45,29-Jan-24,05:13:23,PM,United States,Low-Value,2024,January,31,5,1,5
+100146,564,424,Home,125.07,1,125.07,28-Aug-22,07:58:10,PM,India,Low-Value,2022,August,31,5,3,7
+100148,96,47,Clothing,102.43,1,102.43,27-Dec-22,03:05:18,PM,Netherlands,Low-Value,2022,December,31,5,4,3
+100151,2533,48,Grocery,26.3,1,26.3,06-May-22,11:37:20,PM,Mexico,Low-Value,2022,May,31,1,2,11
+100152,2279,240,Grocery,51.5,1,51.5,30-Dec-23,11:46:55,PM,India,Low-Value,2023,December,31,5,4,11
+100156,1060,340,Grocery,37.7,1,37.7,12-Dec-22,06:39:54,PM,United States,Low-Value,2022,December,31,3,4,6
+100166,796,304,Home,101.03,1,101.03,01-Aug-25,08:58:23,PM,United Kingdom,Low-Value,2025,August,31,1,3,8
+100167,1052,256,Beauty,98.22,1,98.22,25-Mar-25,09:29:09,PM,India,Low-Value,2025,March,31,5,1,9
+100169,1364,102,Toys,14.62,1,14.62,10-May-25,11:18:26,AM,United States,Low-Value,2025,May,31,2,2,11
+100172,1664,39,Books,27.15,1,27.15,19-May-23,09:38:59,PM,United Kingdom,Low-Value,2023,May,31,3,2,9
+100176,2238,88,Books,39.74,1,39.74,01-Oct-23,06:50:46,AM,Japan,Low-Value,2023,October,31,1,4,6
+100178,1401,369,Clothing,48.54,1,48.54,17-Mar-23,06:57:32,AM,France,Low-Value,2023,March,31,3,1,6
+100180,2681,77,Books,20.81,1,20.81,18-May-23,06:50:17,PM,Japan,Low-Value,2023,May,31,3,2,6
+100181,2676,442,Toys,25.85,1,25.85,03-Mar-23,11:59:35,AM,United States,Low-Value,2023,March,31,1,1,11
+100186,1480,382,Clothing,43.5,1,43.5,11-Jul-24,09:54:40,PM,United Kingdom,Low-Value,2024,July,31,2,3,9
+100189,318,58,Grocery,37.8,1,37.8,10-Mar-22,12:31:11,AM,United States,Low-Value,2022,March,31,2,1,12
+100190,1258,201,Sports,75.44,1,75.44,28-Jan-23,06:09:26,AM,France,Low-Value,2023,January,31,4,1,6
+100191,684,225,Sports,43.59,1,43.59,01-Aug-25,02:51:33,AM,United Kingdom,Low-Value,2025,August,31,1,3,2
+100192,664,142,Sports,71.43,1,71.43,29-May-23,02:46:26,AM,Netherlands,Low-Value,2023,May,31,5,2,2
+100193,1999,381,Home,60.24,1,60.24,04-Dec-22,07:39:25,AM,Italy,Low-Value,2022,December,31,2,4,7
+100196,1137,143,Books,32.24,1,32.24,28-Jul-23,10:17:13,PM,India,Low-Value,2023,July,31,5,3,10
+100200,564,152,Sports,128.46,1,128.46,20-Jan-24,11:53:03,AM,United States,Low-Value,2024,January,31,3,1,11
+100202,1637,446,Toys,12,1,12,05-Jul-23,05:24:34,AM,India,Low-Value,2023,July,31,2,3,5
+100203,3000,141,Home,123.84,1,123.84,20-Mar-25,07:54:48,AM,China,Low-Value,2025,March,31,4,1,7
+100204,699,446,Grocery,10.75,1,10.75,05-Jan-24,10:01:01,AM,United States,Low-Value,2024,January,31,1,1,10
+100206,2,303,Books,14.74,1,14.74,13-May-23,08:14:39,PM,United States,Low-Value,2023,May,31,2,2,8
+100207,642,112,Toys,18.47,1,18.47,13-Jul-24,10:34:17,AM,United States,Low-Value,2024,July,31,2,3,10
+100216,1708,125,Books,19.81,1,19.81,08-Aug-22,01:07:49,PM,United States,Low-Value,2022,August,31,2,3,1
+100217,2778,268,Clothing,92.05,1,92.05,13-Dec-22,10:47:39,AM,United States,Low-Value,2022,December,31,3,4,10
+100219,1734,16,Home,124.97,1,124.97,08-Aug-23,08:20:30,PM,France,Low-Value,2023,August,31,2,3,8
+100222,836,59,Beauty,45.09,1,45.09,28-Jan-25,03:26:21,AM,India,Low-Value,2025,January,31,5,1,3
+100224,123,63,Beauty,66.06,1,66.06,07-Oct-23,07:31:01,PM,United States,Low-Value,2023,October,31,1,4,7
+100225,401,446,Toys,36.83,1,36.83,26-Mar-22,02:18:10,AM,India,Low-Value,2022,March,31,4,1,2
+100226,767,491,Home,120.01,1,120.01,03-Aug-22,08:06:01,PM,Japan,Low-Value,2022,August,31,1,3,8
+100229,2932,246,Toys,31.03,1,31.03,05-Dec-22,07:47:48,PM,South Africa,Low-Value,2022,December,31,2,4,7
+100230,198,289,Books,9.95,1,9.95,13-Jan-22,11:26:32,AM,Canada,Low-Value,2022,January,31,3,1,11
+100232,2800,443,Grocery,20.94,1,20.94,11-Jul-23,08:52:26,AM,United Kingdom,Low-Value,2023,July,31,3,3,8
+100236,187,255,Grocery,18.85,1,18.85,02-Dec-24,05:42:40,AM,United States,Low-Value,2024,December,31,1,4,5
+100245,1535,199,Toys,6.29,1,6.29,16-May-23,07:00:01,AM,China,Low-Value,2023,May,31,3,2,7
+100247,2912,500,Books,19.85,1,19.85,12-May-23,01:57:58,AM,United States,Low-Value,2023,May,31,2,2,1
+100248,1735,234,Books,21.22,1,21.22,02-May-22,12:41:08,AM,Netherlands,Low-Value,2022,May,31,1,2,12
+100253,1664,440,Clothing,74.5,1,74.5,05-Aug-24,06:40:29,AM,China,Low-Value,2024,August,31,2,3,6
+100254,2599,249,Toys,65.53,1,65.53,21-Oct-24,11:46:45,AM,Canada,Low-Value,2024,October,31,4,4,11
+100257,641,75,Beauty,37.49,1,37.49,02-Dec-23,09:32:23,PM,United Kingdom,Low-Value,2023,December,31,1,4,9
+100266,2192,339,Home,17.02,1,17.02,21-Jan-22,06:01:15,PM,Mexico,Low-Value,2022,January,31,4,1,6
+100267,2394,66,Home,130.35,1,130.35,14-Dec-24,02:38:44,AM,France,Low-Value,2024,December,31,2,4,2
+100270,881,33,Clothing,19.09,1,19.09,14-Jan-25,06:53:57,AM,China,Low-Value,2025,January,31,3,1,6
+100273,1328,46,Clothing,56.55,1,56.55,05-Oct-22,01:37:06,PM,India,Low-Value,2022,October,31,2,4,1
+100275,453,354,Clothing,21.58,1,21.58,19-Oct-23,01:19:21,PM,Netherlands,Low-Value,2023,October,31,3,4,1
+100278,1683,133,Toys,22.78,1,22.78,16-Mar-24,07:03:41,AM,Netherlands,Low-Value,2024,March,31,3,1,7
+100281,1155,345,Sports,35.53,1,35.53,23-Jan-24,10:43:30,PM,United States,Low-Value,2024,January,31,4,1,10
+100282,404,8,Electronics,75.72,1,75.72,09-Aug-24,09:12:50,AM,Japan,Low-Value,2024,August,31,2,3,9
+100288,1649,317,Beauty,100.22,1,100.22,09-Jul-23,08:27:21,PM,United States,Low-Value,2023,July,31,3,3,8
+100293,2558,102,Toys,23.53,1,23.53,29-Jan-23,01:43:41,PM,South Africa,Low-Value,2023,January,31,5,1,1
+100297,1885,210,Sports,76.95,1,76.95,21-May-23,07:39:53,PM,United Kingdom,Low-Value,2023,May,31,4,2,7
+100298,2962,495,Clothing,79.56,1,79.56,01-May-23,06:18:13,AM,India,Low-Value,2023,May,31,1,2,6
+100299,1920,361,Toys,12.37,1,12.37,01-Oct-22,12:19:39,AM,United States,Low-Value,2022,October,31,1,4,12
+100301,338,67,Clothing,36.02,1,36.02,03-Oct-24,01:30:32,PM,Germany,Low-Value,2024,October,31,1,4,1
+100303,957,49,Toys,68.81,1,68.81,11-Jan-22,09:52:16,PM,United States,Low-Value,2022,January,31,3,1,9
+100304,1705,487,Clothing,74.96,1,74.96,05-Mar-24,01:19:42,AM,United Kingdom,Low-Value,2024,March,31,2,1,1
+100310,816,459,Books,6.37,1,6.37,09-Dec-22,05:07:11,PM,Netherlands,Low-Value,2022,December,31,2,4,5
+100318,2736,271,Books,19.51,1,19.51,17-Jul-22,11:42:27,AM,United States,Low-Value,2022,July,31,4,3,11
+100322,1046,375,Toys,9.3,1,9.3,19-Aug-22,09:04:52,PM,India,Low-Value,2022,August,31,3,3,9
+100324,1694,158,Sports,82.77,1,82.77,21-Jan-24,07:41:34,AM,United States,Low-Value,2024,January,31,4,1,7
+100325,2086,20,Toys,45.32,1,45.32,23-Jul-23,07:22:45,AM,Japan,Low-Value,2023,July,31,5,3,7
+100328,2486,329,Toys,44.25,1,44.25,30-Mar-25,04:14:30,AM,India,Low-Value,2025,March,31,6,1,4
+100331,226,167,Home,41.12,1,41.12,10-Mar-22,12:41:02,PM,Netherlands,Low-Value,2022,March,31,2,1,12
+100334,2927,23,Toys,62.98,1,62.98,04-Aug-25,01:54:32,PM,Spain,Low-Value,2025,August,31,2,3,1
+100339,659,9,Beauty,55.78,1,55.78,10-Aug-24,01:01:55,PM,South Africa,Low-Value,2024,August,31,2,3,1
+100341,1216,412,Grocery,28.51,1,28.51,21-Aug-22,08:45:02,AM,India,Low-Value,2022,August,31,4,3,8
+100343,1244,307,Clothing,47.82,1,47.82,01-May-23,01:41:11,AM,United States,Low-Value,2023,May,31,1,2,1
+100345,2525,52,Clothing,8.37,1,8.37,11-Mar-22,10:23:41,PM,India,Low-Value,2022,March,31,2,1,10
+100349,1769,193,Clothing,21.67,1,21.67,26-Jan-25,10:25:30,AM,Australia,Low-Value,2025,January,31,5,1,10
+100350,1061,402,Home,127.28,1,127.28,15-Dec-24,09:10:50,PM,United Kingdom,Low-Value,2024,December,31,3,4,9
+100352,2545,51,Electronics,70.14,1,70.14,21-Oct-23,12:21:28,AM,United Kingdom,Low-Value,2023,October,31,3,4,12
+100363,2007,417,Grocery,13.27,1,13.27,06-Mar-23,11:26:11,AM,Brazil,Low-Value,2023,March,31,2,1,11
+100364,1185,152,Books,27.99,1,27.99,18-Mar-24,07:26:00,PM,United States,Low-Value,2024,March,31,4,1,7
+100377,155,190,Sports,83.04,1,83.04,13-May-22,06:37:57,PM,United Kingdom,Low-Value,2022,May,31,2,2,6
+100378,2538,402,Books,17.62,1,17.62,08-May-25,11:30:58,AM,United Kingdom,Low-Value,2025,May,31,2,2,11
+100382,1501,229,Grocery,3.22,1,3.22,07-Dec-23,06:38:17,AM,United States,Low-Value,2023,December,31,2,4,6
+100386,1891,268,Books,23.4,1,23.4,28-Jul-24,10:18:09,AM,Mexico,Low-Value,2024,July,31,5,3,10
+100393,2951,306,Grocery,12.35,1,12.35,05-Mar-25,04:34:34,AM,Spain,Low-Value,2025,March,31,2,1,4
+100395,685,89,Beauty,56.28,1,56.28,06-Jul-23,02:49:56,PM,India,Low-Value,2023,July,31,2,3,2
+100396,20,355,Grocery,7.24,1,7.24,17-May-22,12:41:35,PM,Canada,Low-Value,2022,May,31,3,2,12
+100397,2369,116,Beauty,36.05,1,36.05,31-Aug-24,09:02:59,PM,Japan,Low-Value,2024,August,31,5,3,9
+100399,400,177,Beauty,21.9,1,21.9,05-Aug-22,05:09:03,PM,India,Low-Value,2022,August,31,1,3,5
+100406,834,325,Electronics,111.93,1,111.93,12-May-23,05:22:30,AM,Italy,Low-Value,2023,May,31,2,2,5
+100409,1983,483,Books,16.14,1,16.14,08-Aug-23,11:26:09,PM,China,Low-Value,2023,August,31,2,3,11
+100412,575,9,Grocery,34.7,1,34.7,10-May-23,08:28:46,AM,India,Low-Value,2023,May,31,2,2,8
+100413,1149,118,Books,8.74,1,8.74,11-May-23,07:19:44,AM,India,Low-Value,2023,May,31,2,2,7
+100417,2353,289,Grocery,6.32,1,6.32,14-Jan-22,12:11:02,PM,United States,Low-Value,2022,January,31,3,1,12
+100419,682,14,Books,19.66,1,19.66,20-Aug-22,03:15:17,AM,United States,Low-Value,2022,August,31,3,3,3
+100420,838,494,Sports,57.35,1,57.35,20-Jul-25,05:44:58,PM,United States,Low-Value,2025,July,31,4,3,5
+100421,1078,257,Toys,66.41,1,66.41,16-Mar-23,09:16:58,PM,United States,Low-Value,2023,March,31,3,1,9
+100438,269,72,Toys,30.48,1,30.48,30-May-25,02:08:23,PM,India,Low-Value,2025,May,31,5,2,2
+100439,370,418,Sports,93.48,1,93.48,31-Jan-25,02:53:53,AM,India,Low-Value,2025,January,31,5,1,2
+100442,1694,74,Beauty,46.39,1,46.39,04-Dec-23,10:26:07,PM,India,Low-Value,2023,December,31,2,4,10
+100445,120,497,Clothing,126.18,1,126.18,14-Dec-24,09:42:59,AM,India,Low-Value,2024,December,31,2,4,9
+100452,117,373,Electronics,145.05,1,145.05,16-Jul-24,05:11:51,PM,United States,Low-Value,2024,July,31,3,3,5
+100453,1854,362,Beauty,31.54,1,31.54,02-May-22,07:00:42,PM,India,Low-Value,2022,May,31,1,2,7
+100454,2839,93,Clothing,58.85,1,58.85,27-Oct-24,11:23:43,AM,Netherlands,Low-Value,2024,October,31,5,4,11
+100456,1932,324,Home,82.56,1,82.56,07-Aug-24,07:46:51,AM,India,Low-Value,2024,August,31,2,3,7
+100457,1013,384,Clothing,46.26,1,46.26,02-Aug-23,03:01:41,PM,Canada,Low-Value,2023,August,31,1,3,3
+100467,897,160,Toys,10.49,1,10.49,29-Aug-23,10:27:12,AM,India,Low-Value,2023,August,31,5,3,10
+100473,2909,403,Clothing,32.9,1,32.9,04-Jul-24,07:24:10,PM,France,Low-Value,2024,July,31,1,3,7
+100477,997,11,Clothing,77.29,1,77.29,15-May-22,06:56:02,AM,Australia,Low-Value,2022,May,31,3,2,6
+100478,2745,187,Home,21.09,1,21.09,19-Dec-22,01:57:08,AM,United Kingdom,Low-Value,2022,December,31,4,4,1
+100480,1093,15,Grocery,24.41,1,24.41,21-Jan-24,09:33:25,AM,France,Low-Value,2024,January,31,4,1,9
+100481,1009,266,Clothing,95.34,1,95.34,21-Dec-22,03:29:23,AM,United States,Low-Value,2022,December,31,4,4,3
+100482,2142,297,Clothing,79.19,1,79.19,30-May-25,12:50:00,PM,Brazil,Low-Value,2025,May,31,5,2,12
+100487,2960,128,Clothing,53.5,1,53.5,06-Dec-23,06:13:31,AM,United States,Low-Value,2023,December,31,2,4,6
+100489,2522,65,Books,10.29,1,10.29,17-Jan-22,07:01:31,PM,Japan,Low-Value,2022,January,31,4,1,7
+100492,551,428,Home,138.39,1,138.39,02-Jul-24,11:24:37,PM,India,Low-Value,2024,July,31,1,3,11
+100496,357,254,Books,12.62,1,12.62,28-Mar-22,05:55:32,AM,India,Low-Value,2022,March,31,5,1,5
+100001,1295,366,Home,101.09,1,101.09,17-Apr-22,09:31:40,AM,Canada,Low-Value,2022,April,30,4,2,9
+100005,2170,247,Toys,19.18,1,19.18,18-Nov-24,11:48:19,PM,China,Low-Value,2024,November,30,4,4,11
+100006,467,68,Grocery,7.6,1,7.6,30-Nov-24,01:59:35,AM,United Kingdom,Low-Value,2024,November,30,5,4,1
+100012,131,90,Clothing,16.52,1,16.52,09-Nov-24,12:27:13,PM,United States,Low-Value,2024,November,30,2,4,12
+100031,2048,154,Electronics,58.89,1,58.89,11-Apr-23,12:22:52,PM,United States,Low-Value,2023,April,30,3,2,12
+100036,2735,159,Home,123.73,1,123.73,03-Jun-22,11:40:18,AM,France,Low-Value,2022,June,30,1,2,11
+100038,1900,426,Grocery,5.74,1,5.74,17-Jun-23,08:04:24,PM,India,Low-Value,2023,June,30,3,2,8
+100042,647,47,Beauty,65.23,1,65.23,30-Apr-25,07:15:08,PM,United Kingdom,Low-Value,2025,April,30,5,2,7
+100044,2889,217,Sports,45.63,1,45.63,15-Jun-25,08:54:10,PM,France,Low-Value,2025,June,30,3,2,8
+100053,2825,461,Grocery,26.97,1,26.97,09-Jun-23,10:41:03,PM,India,Low-Value,2023,June,30,2,2,10
+100054,2613,287,Books,5.9,1,5.9,17-Jun-25,02:20:00,AM,France,Low-Value,2025,June,30,3,2,2
+100056,1364,416,Books,5.07,1,5.07,20-Apr-23,08:41:04,AM,France,Low-Value,2023,April,30,4,2,8
+100064,1956,230,Sports,51.26,1,51.26,30-Jun-22,12:45:55,PM,United States,Low-Value,2022,June,30,5,2,12
+100075,202,439,Grocery,30.61,1,30.61,22-Jun-22,08:02:53,AM,Netherlands,Low-Value,2022,June,30,4,2,8
+100079,816,138,Sports,57.87,1,57.87,19-Apr-24,11:40:59,AM,Brazil,Low-Value,2024,April,30,3,2,11
+100081,1276,331,Clothing,84.28,1,84.28,10-Sep-24,11:39:25,PM,Netherlands,Low-Value,2024,September,30,2,3,11
+100082,1017,270,Clothing,50.62,1,50.62,12-Nov-23,08:25:50,PM,United Kingdom,Low-Value,2023,November,30,3,4,8
+100085,338,45,Books,16.79,1,16.79,22-Nov-23,10:39:12,AM,United Kingdom,Low-Value,2023,November,30,4,4,10
+100094,1181,285,Beauty,48.51,1,48.51,03-Sep-23,01:17:09,PM,Australia,Low-Value,2023,September,30,2,3,1
+100096,65,20,Sports,86.59,1,86.59,06-Jun-25,06:05:55,AM,India,Low-Value,2025,June,30,1,2,6
+100113,2089,19,Electronics,124.52,1,124.52,03-Nov-23,05:53:00,AM,India,Low-Value,2023,November,30,1,4,5
+100117,780,223,Grocery,12.31,1,12.31,09-Sep-22,03:23:02,AM,Netherlands,Low-Value,2022,September,30,2,3,3
+100119,503,451,Toys,48.16,1,48.16,29-Apr-23,10:59:05,AM,Canada,Low-Value,2023,April,30,5,2,10
+100123,2147,228,Toys,17.71,1,17.71,23-Nov-23,05:32:23,AM,United States,Low-Value,2023,November,30,4,4,5
+100124,2732,401,Beauty,46.01,1,46.01,10-Apr-22,05:12:25,AM,United Kingdom,Low-Value,2022,April,30,3,2,5
+100125,1896,142,Home,149.43,1,149.43,16-Jun-24,09:42:23,PM,Netherlands,Low-Value,2024,June,30,4,2,9
+100134,2815,139,Sports,31.62,1,31.62,14-Sep-24,09:19:11,AM,United Kingdom,Low-Value,2024,September,30,2,3,9
+100135,398,276,Clothing,13.32,1,13.32,03-Apr-24,09:08:35,AM,India,Low-Value,2024,April,30,1,2,9
+100136,871,291,Sports,144.67,1,144.67,21-Jun-23,01:43:56,PM,Australia,Low-Value,2023,June,30,4,2,1
+100162,2730,4,Books,8.69,1,8.69,25-Apr-23,01:07:32,AM,United States,Low-Value,2023,April,30,5,2,1
+100163,2605,76,Clothing,81.07,1,81.07,02-Sep-22,01:17:53,AM,United States,Low-Value,2022,September,30,1,3,1
+100164,1598,329,Books,33.92,1,33.92,14-Nov-23,09:03:04,PM,India,Low-Value,2023,November,30,3,4,9
+100165,2694,77,Clothing,22.92,1,22.92,30-Jun-22,11:50:22,AM,United States,Low-Value,2022,June,30,5,2,11
+100171,1355,333,Clothing,87.52,1,87.52,15-Apr-25,04:05:26,AM,Australia,Low-Value,2025,April,30,3,2,4
+100173,1530,476,Toys,33.44,1,33.44,11-Sep-22,11:47:57,PM,Brazil,Low-Value,2022,September,30,3,3,11
+100194,1632,368,Grocery,9.61,1,9.61,10-Jun-24,09:50:41,PM,India,Low-Value,2024,June,30,3,2,9
+100199,2490,401,Beauty,38.18,1,38.18,18-Sep-22,11:07:51,AM,Brazil,Low-Value,2022,September,30,4,3,11
+100205,2161,251,Clothing,34.99,1,34.99,09-Sep-22,05:12:37,AM,United States,Low-Value,2022,September,30,2,3,5
+100214,1154,244,Home,96.04,1,96.04,22-Jun-24,05:14:53,AM,Australia,Low-Value,2024,June,30,4,2,5
+100215,1077,3,Toys,50,1,50,01-Jun-22,01:47:37,AM,Mexico,Low-Value,2022,June,30,1,2,1
+100237,2512,92,Books,13.36,1,13.36,04-Apr-22,06:40:39,AM,India,Low-Value,2022,April,30,2,2,6
+100242,2451,301,Grocery,48.2,1,48.2,12-Sep-22,09:02:17,PM,Australia,Low-Value,2022,September,30,3,3,9
+100246,147,271,Grocery,14.89,1,14.89,12-Sep-22,11:19:16,AM,United States,Low-Value,2022,September,30,3,3,11
+100250,489,64,Grocery,2.85,1,2.85,15-Apr-23,08:10:57,PM,United States,Low-Value,2023,April,30,3,2,8
+100256,2920,428,Books,27.24,1,27.24,09-Sep-23,02:37:35,PM,Brazil,Low-Value,2023,September,30,2,3,2
+100269,1017,20,Home,80.81,1,80.81,26-Nov-24,06:22:06,AM,Japan,Low-Value,2024,November,30,5,4,6
+100272,2945,281,Home,104.98,1,104.98,12-Nov-23,12:28:10,PM,Italy,Low-Value,2023,November,30,3,4,12
+100285,1697,176,Sports,80.66,1,80.66,24-Apr-22,11:35:00,PM,Canada,Low-Value,2022,April,30,5,2,11
+100294,1497,310,Clothing,17.2,1,17.2,29-Sep-23,07:43:44,AM,Germany,Low-Value,2023,September,30,5,3,7
+100312,1920,133,Beauty,34.29,1,34.29,04-Nov-22,03:58:56,PM,United Kingdom,Low-Value,2022,November,30,1,4,3
+100315,1219,57,Grocery,9.87,1,9.87,24-Nov-23,08:18:45,PM,India,Low-Value,2023,November,30,4,4,8
+100317,640,349,Electronics,102.72,1,102.72,11-Jun-25,10:21:16,PM,United States,Low-Value,2025,June,30,2,2,10
+100319,460,483,Books,27.45,1,27.45,17-Sep-22,06:40:51,PM,United States,Low-Value,2022,September,30,3,3,6
+100320,955,111,Toys,50.21,1,50.21,11-Jun-22,12:30:05,AM,United States,Low-Value,2022,June,30,2,2,12
+100321,470,357,Grocery,4.83,1,4.83,28-Jun-22,02:09:20,PM,India,Low-Value,2022,June,30,5,2,2
+100323,2798,76,Clothing,32.66,1,32.66,29-Sep-24,01:56:23,AM,France,Low-Value,2024,September,30,5,3,1
+100332,798,410,Books,27.08,1,27.08,12-Apr-25,06:47:43,PM,India,Low-Value,2025,April,30,2,2,6
+100336,1505,251,Clothing,37.29,1,37.29,03-Jun-24,06:38:58,PM,France,Low-Value,2024,June,30,2,2,6
+100348,2147,100,Books,26.13,1,26.13,26-Sep-24,10:12:40,AM,Mexico,Low-Value,2024,September,30,4,3,10
+100355,607,168,Books,15.39,1,15.39,25-Apr-24,02:21:00,AM,United Kingdom,Low-Value,2024,April,30,4,2,2
+100379,1410,94,Home,53.92,1,53.92,23-Jun-25,08:20:47,AM,India,Low-Value,2025,June,30,4,2,8
+100388,921,281,Toys,80.39,1,80.39,29-Nov-23,02:49:56,PM,Netherlands,Low-Value,2023,November,30,5,4,2
+100392,1530,126,Grocery,15.23,1,15.23,14-Jun-22,10:47:46,AM,United States,Low-Value,2022,June,30,3,2,10
+100394,36,190,Clothing,113.43,1,113.43,09-Sep-22,08:58:00,PM,India,Low-Value,2022,September,30,2,3,8
+100398,2560,352,Home,81.65,1,81.65,29-Sep-23,01:56:59,AM,India,Low-Value,2023,September,30,5,3,1
+100405,1116,328,Clothing,111.63,1,111.63,26-Sep-24,11:56:51,PM,Spain,Low-Value,2024,September,30,4,3,11
+100410,854,147,Home,77.18,1,77.18,27-Apr-22,04:46:19,AM,Australia,Low-Value,2022,April,30,5,2,4
+100414,2198,94,Grocery,17.62,1,17.62,22-Sep-22,01:56:15,PM,United States,Low-Value,2022,September,30,4,3,1
+100415,2362,434,Beauty,16.17,1,16.17,11-Jun-25,03:48:46,PM,Australia,Low-Value,2025,June,30,2,2,3
+100426,5,207,Beauty,18.04,1,18.04,07-Nov-24,10:26:29,AM,Australia,Low-Value,2024,November,30,2,4,10
+100429,774,172,Books,37.13,1,37.13,28-Sep-23,08:55:47,AM,Germany,Low-Value,2023,September,30,5,3,8
+100430,877,464,Books,13.67,1,13.67,12-Apr-24,06:17:50,PM,Canada,Low-Value,2024,April,30,2,2,6
+100432,2932,221,Beauty,30.17,1,30.17,10-Jun-24,08:41:03,AM,Japan,Low-Value,2024,June,30,3,2,8
+100435,2871,183,Sports,123.47,1,123.47,20-Jun-25,02:44:49,AM,United States,Low-Value,2025,June,30,3,2,2
+100450,1370,398,Sports,84.06,1,84.06,16-Nov-23,03:40:44,PM,Mexico,Low-Value,2023,November,30,3,4,3
+100459,1082,224,Books,32.53,1,32.53,24-Apr-25,01:41:04,AM,Australia,Low-Value,2025,April,30,4,2,1
+100460,634,225,Sports,33.38,1,33.38,06-Apr-23,09:49:29,PM,India,Low-Value,2023,April,30,2,2,9
+100462,2850,346,Beauty,16.01,1,16.01,19-Jun-22,05:58:07,PM,Spain,Low-Value,2022,June,30,4,2,5
+100464,1142,103,Grocery,15.52,1,15.52,17-Nov-24,09:31:44,PM,Netherlands,Low-Value,2024,November,30,4,4,9
+100468,1213,372,Home,23.49,1,23.49,21-Apr-25,09:15:21,AM,Germany,Low-Value,2025,April,30,4,2,9
+100470,1471,269,Beauty,76.6,1,76.6,07-Apr-24,01:07:46,AM,India,Low-Value,2024,April,30,2,2,1
+100486,1228,52,Toys,50.87,1,50.87,11-Nov-22,01:45:48,AM,United States,Low-Value,2022,November,30,2,4,1
+100058,1391,482,Clothing,28.22,1,28.22,01-Feb-23,09:08:03,AM,United States,Low-Value,2023,February,28,1,1,9
+100068,1130,378,Toys,63.38,1,63.38,16-Feb-25,01:23:50,PM,Mexico,Low-Value,2025,February,28,4,1,1
+100087,1077,464,Toys,89.88,1,89.88,04-Feb-25,10:28:51,AM,India,Low-Value,2025,February,28,2,1,10
+100147,1021,358,Sports,118.23,1,118.23,16-Feb-25,06:19:51,PM,India,Low-Value,2025,February,28,4,1,6
+100154,1679,213,Grocery,45.17,1,45.17,21-Feb-24,03:26:04,AM,Mexico,Low-Value,2024,February,29,4,1,3
+100158,1184,139,Home,107.91,1,107.91,21-Feb-25,12:22:33,PM,Canada,Low-Value,2025,February,28,4,1,12
+100223,203,177,Books,23.54,1,23.54,06-Feb-23,04:44:40,PM,United States,Low-Value,2023,February,28,2,1,4
+100234,609,15,Clothing,125.17,1,125.17,08-Feb-25,09:46:41,AM,India,Low-Value,2025,February,28,2,1,9
+100243,1370,318,Beauty,36.77,1,36.77,09-Feb-23,06:19:06,PM,Australia,Low-Value,2023,February,28,2,1,6
+100260,1970,190,Sports,74.47,1,74.47,24-Feb-25,02:33:28,PM,India,Low-Value,2025,February,28,5,1,2
+100263,1635,438,Clothing,67.54,1,67.54,27-Feb-25,01:33:10,AM,Germany,Low-Value,2025,February,28,5,1,1
+100291,104,150,Electronics,121.89,1,121.89,05-Feb-24,08:03:52,AM,United States,Low-Value,2024,February,29,2,1,8
+100306,1604,321,Sports,50.47,1,50.47,24-Feb-23,06:53:21,AM,United States,Low-Value,2023,February,28,4,1,6
+100307,2849,219,Home,45.26,1,45.26,20-Feb-24,03:51:04,PM,Brazil,Low-Value,2024,February,29,4,1,3
+100314,1159,83,Books,14.57,1,14.57,23-Feb-22,03:28:21,AM,Germany,Low-Value,2022,February,28,4,1,3
+100327,563,131,Clothing,80.45,1,80.45,28-Feb-22,11:31:28,PM,United States,Low-Value,2022,February,28,5,1,11
+100370,570,356,Sports,108.81,1,108.81,11-Feb-24,03:41:48,AM,India,Low-Value,2024,February,29,3,1,3
+100376,1687,140,Clothing,21,1,21,12-Feb-23,03:44:45,PM,India,Low-Value,2023,February,28,3,1,3
+100425,1596,400,Clothing,30.16,1,30.16,05-Feb-22,05:37:01,PM,France,Low-Value,2022,February,28,1,1,5
+100455,1151,321,Home,46.96,1,46.96,29-Feb-24,03:23:19,AM,United States,Low-Value,2024,February,29,5,1,3
+100466,488,192,Clothing,96.11,1,96.11,12-Feb-24,01:30:09,AM,United States,Low-Value,2024,February,29,3,1,1
+100471,581,194,Books,12.19,1,12.19,14-Feb-22,01:31:08,AM,Netherlands,Low-Value,2022,February,28,3,1,1
+100493,1636,138,Books,16.58,1,16.58,12-Feb-23,08:29:55,AM,India,Low-Value,2023,February,28,3,1,8
+100002,1131,115,Electronics,253.61,1,253.61,08-Nov-22,12:38:20,PM,India,Mid-Value,2022,November,30,2,4,12
+100009,1483,326,Home,382.34,1,382.34,20-Sep-23,08:09:17,AM,Mexico,Mid-Value,2023,September,30,4,3,8
+100011,2920,196,Home,179.22,1,179.22,12-May-23,08:32:22,AM,United States,Mid-Value,2023,May,31,2,2,8
+100013,1686,111,Sports,186.66,1,186.66,04-Dec-23,08:45:17,PM,India,Mid-Value,2023,December,31,2,4,8
+100015,2392,359,Home,226.95,1,226.95,06-Dec-23,04:26:44,AM,United States,Mid-Value,2023,December,31,2,4,4
+100026,748,153,Home,275.88,1,275.88,27-Oct-23,07:16:54,PM,United States,Mid-Value,2023,October,31,4,4,7
+100030,2559,199,Home,212.26,1,212.26,01-Oct-22,06:32:26,AM,Brazil,Mid-Value,2022,October,31,1,4,6
+100037,563,26,Electronics,355.91,1,355.91,24-Sep-22,12:32:25,AM,India,Mid-Value,2022,September,30,4,3,12
+100048,601,73,Electronics,205.49,1,205.49,21-Sep-24,06:51:09,PM,South Africa,Mid-Value,2024,September,30,3,3,6
+100063,2254,450,Sports,277.02,1,277.02,26-Aug-22,07:50:05,PM,Spain,Mid-Value,2022,August,31,4,3,7
+100069,1501,156,Electronics,301.88,1,301.88,18-Sep-22,09:35:28,AM,India,Mid-Value,2022,September,30,4,3,9
+100074,162,330,Electronics,245.12,1,245.12,13-Jul-24,09:09:06,PM,United States,Mid-Value,2024,July,31,2,3,9
+100084,2768,396,Home,283.93,1,283.93,30-Apr-25,12:46:08,PM,Spain,Mid-Value,2025,April,30,5,2,12
+100088,792,163,Sports,177.94,1,177.94,18-Mar-23,03:44:06,PM,United Kingdom,Mid-Value,2023,March,31,3,1,3
+100101,2696,310,Electronics,372.79,1,372.79,24-May-23,04:57:17,PM,France,Mid-Value,2023,May,31,4,2,4
+100120,2455,236,Home,209.29,1,209.29,29-Sep-24,07:20:36,AM,India,Mid-Value,2024,September,30,5,3,7
+100122,805,465,Electronics,406.74,1,406.74,06-Aug-23,10:40:54,AM,United States,Mid-Value,2023,August,31,2,3,10
+100141,1882,436,Electronics,389.43,1,389.43,30-Nov-24,08:30:54,PM,Spain,Mid-Value,2024,November,30,5,4,8
+100143,1485,4,Electronics,340.77,1,340.77,19-Oct-24,11:11:58,PM,United States,Mid-Value,2024,October,31,3,4,11
+100145,2791,172,Electronics,338.49,1,338.49,26-Apr-23,04:04:23,PM,United States,Mid-Value,2023,April,30,5,2,4
+100150,1758,428,Home,179.1,1,179.1,25-Feb-23,10:38:03,AM,Spain,Mid-Value,2023,February,28,4,1,10
+100155,541,436,Sports,160.27,1,160.27,20-Apr-23,11:41:26,AM,South Africa,Mid-Value,2023,April,30,4,2,11
+100160,1820,381,Home,320.26,1,320.26,13-Oct-22,12:13:37,AM,Brazil,Mid-Value,2022,October,31,3,4,12
+100174,2039,314,Clothing,153.28,1,153.28,18-Jan-25,11:19:01,PM,United Kingdom,Mid-Value,2025,January,31,3,1,11
+100185,710,266,Sports,286.78,1,286.78,15-Apr-22,01:14:29,PM,Brazil,Mid-Value,2022,April,30,3,2,1
+100212,2433,43,Electronics,447.81,1,447.81,26-Sep-23,12:29:30,AM,United States,Mid-Value,2023,September,30,5,3,12
+100213,1662,264,Electronics,419.11,1,419.11,23-Feb-25,07:42:34,PM,India,Mid-Value,2025,February,28,5,1,7
+100231,1931,286,Electronics,484.95,1,484.95,08-May-23,08:38:33,AM,India,Mid-Value,2023,May,31,2,2,8
+100235,1148,338,Electronics,171.74,1,171.74,30-Jun-24,02:04:29,PM,Italy,Mid-Value,2024,June,30,6,2,2
+100259,2521,223,Electronics,166.61,1,166.61,07-Jan-25,06:25:16,PM,United States,Mid-Value,2025,January,31,2,1,6
+100265,1788,313,Electronics,245.7,1,245.7,19-Jan-25,10:56:17,AM,United States,Mid-Value,2025,January,31,4,1,10
+100284,2102,246,Electronics,459.22,1,459.22,03-May-23,05:05:53,AM,Brazil,Mid-Value,2023,May,31,1,2,5
+100286,628,493,Electronics,389.66,1,389.66,07-Jun-25,09:44:25,PM,Germany,Mid-Value,2025,June,30,1,2,9
+100289,1444,271,Electronics,161.22,1,161.22,24-Jun-25,10:41:54,PM,United Kingdom,Mid-Value,2025,June,30,4,2,10
+100292,254,131,Sports,155.1,1,155.1,28-May-25,09:39:13,AM,Australia,Mid-Value,2025,May,31,5,2,9
+100295,99,270,Home,226.37,1,226.37,16-Mar-22,08:46:47,PM,Japan,Mid-Value,2022,March,31,3,1,8
+100296,2201,292,Electronics,309.74,1,309.74,14-Apr-22,09:02:49,AM,United States,Mid-Value,2022,April,30,3,2,9
+100308,398,57,Electronics,208.48,1,208.48,06-Apr-22,12:15:34,AM,Italy,Mid-Value,2022,April,30,2,2,12
+100316,401,376,Electronics,268.56,1,268.56,05-Oct-22,04:33:51,PM,United States,Mid-Value,2022,October,31,2,4,4
+100329,1800,122,Sports,221.44,1,221.44,16-Nov-23,04:40:42,AM,United States,Mid-Value,2023,November,30,3,4,4
+100333,2332,130,Home,277.5,1,277.5,23-Dec-22,07:51:57,AM,United States,Mid-Value,2022,December,31,4,4,7
+100340,547,13,Home,321.43,1,321.43,01-Apr-25,07:04:37,PM,Canada,Mid-Value,2025,April,30,1,2,7
+100346,1070,209,Home,178.31,1,178.31,18-May-23,05:43:11,AM,India,Mid-Value,2023,May,31,3,2,5
+100356,700,311,Home,282.93,1,282.93,28-Mar-25,11:21:42,AM,Netherlands,Mid-Value,2025,March,31,5,1,11
+100357,993,109,Home,174.7,1,174.7,08-Dec-22,07:45:50,AM,Mexico,Mid-Value,2022,December,31,2,4,7
+100358,1140,207,Electronics,410.21,1,410.21,21-Feb-23,06:39:08,PM,Canada,Mid-Value,2023,February,28,4,1,6
+100359,191,427,Home,234.34,1,234.34,05-Oct-24,08:30:44,PM,United States,Mid-Value,2024,October,31,1,4,8
+100360,2301,300,Home,166.75,1,166.75,24-Feb-25,04:27:47,PM,Japan,Mid-Value,2025,February,28,5,1,4
+100365,128,420,Electronics,332.64,1,332.64,06-Feb-24,10:43:48,AM,India,Mid-Value,2024,February,29,2,1,10
+100367,1817,128,Electronics,426.91,1,426.91,27-May-24,11:29:47,PM,United Kingdom,Mid-Value,2024,May,31,5,2,11
+100372,1896,489,Electronics,333.23,1,333.23,06-Apr-24,12:00:55,AM,United States,Mid-Value,2024,April,30,1,2,12
+100383,1706,63,Home,186.3,1,186.3,03-Jun-23,09:06:13,AM,United States,Mid-Value,2023,June,30,1,2,9
+100389,2456,11,Electronics,399.67,1,399.67,06-Sep-24,06:33:13,PM,South Africa,Mid-Value,2024,September,30,1,3,6
+100402,1907,209,Sports,170.12,1,170.12,24-Apr-24,10:52:20,AM,United States,Mid-Value,2024,April,30,4,2,10
+100403,2519,281,Home,274.65,1,274.65,06-Jul-24,07:55:28,PM,United States,Mid-Value,2024,July,31,1,3,7
+100408,2775,105,Electronics,429.02,1,429.02,12-Apr-25,04:47:24,PM,Japan,Mid-Value,2025,April,30,2,2,4
+100411,51,279,Sports,160.17,1,160.17,13-Nov-22,05:32:24,PM,United States,Mid-Value,2022,November,30,3,4,5
+100423,2661,186,Sports,169.8,1,169.8,30-Aug-22,05:51:00,AM,Brazil,Mid-Value,2022,August,31,5,3,5
+100427,1127,346,Home,158.58,1,158.58,21-Jul-23,02:58:08,AM,India,Mid-Value,2023,July,31,4,3,2
+100428,1220,431,Electronics,239.75,1,239.75,14-Jan-23,05:22:05,AM,India,Mid-Value,2023,January,31,2,1,5
+100434,2915,111,Electronics,388.46,1,388.46,15-Dec-22,11:25:04,AM,South Africa,Mid-Value,2022,December,31,3,4,11
+100437,2704,339,Home,239.94,1,239.94,10-Jun-22,09:51:55,AM,United States,Mid-Value,2022,June,30,2,2,9
+100440,636,386,Electronics,247.21,1,247.21,10-Jan-22,06:48:27,AM,South Africa,Mid-Value,2022,January,31,3,1,6
+100458,1665,63,Electronics,162.31,1,162.31,17-Mar-22,08:34:02,AM,United States,Mid-Value,2022,March,31,3,1,8
+100463,1120,337,Sports,175.1,1,175.1,18-Aug-22,02:14:13,AM,United States,Mid-Value,2022,August,31,3,3,2
+100474,2295,152,Electronics,322.07,1,322.07,21-May-23,07:04:20,AM,United Kingdom,Mid-Value,2023,May,31,4,2,7
+100476,1680,88,Electronics,264.77,1,264.77,10-Jul-25,07:35:01,AM,China,Mid-Value,2025,July,31,2,3,7
+100479,1244,214,Home,190.76,1,190.76,09-Dec-24,05:14:26,PM,Germany,Mid-Value,2024,December,31,2,4,5
+100490,2480,17,Electronics,423.97,1,423.97,02-Aug-22,06:11:29,PM,Germany,Mid-Value,2022,August,31,1,3,6
+100499,2570,431,Electronics,235.54,1,235.54,27-Jan-22,08:17:12,AM,South Africa,Mid-Value,2022,January,31,5,1,8
+100019,1216,241,Electronics,714.33,1,714.33,10-Mar-23,03:54:21,AM,Canada,High-Value,2023,March,31,2,1,3
+100032,2748,56,Electronics,560.13,1,560.13,05-Aug-23,12:00:43,AM,India,High-Value,2023,August,31,1,3,12
+100086,879,401,Electronics,609.41,1,609.41,17-Jun-23,11:37:42,AM,India,High-Value,2023,June,30,3,2,11
+100107,1699,128,Electronics,543.77,1,543.77,14-Jul-24,01:51:18,PM,Canada,High-Value,2024,July,31,3,3,1
+100144,864,155,Electronics,531.67,1,531.67,21-Sep-23,09:46:30,PM,India,High-Value,2023,September,30,4,3,9
+100258,1803,157,Electronics,535.85,1,535.85,18-Oct-24,02:18:32,AM,United States,High-Value,2024,October,31,3,4,2
+100276,1184,313,Electronics,635.56,1,635.56,14-Feb-23,03:15:05,PM,India,High-Value,2023,February,28,3,1,3
+100375,2902,459,Electronics,634.24,1,634.24,11-May-24,10:46:03,PM,Brazil,High-Value,2024,May,31,2,2,10
+100483,1774,411,Electronics,565.16,1,565.16,18-Oct-22,07:19:52,AM,Netherlands,High-Value,2022,October,31,4,4,7
+100000,861,201,Sports,93.11,2,186.22,30-Oct-24,04:07:37,PM,Brazil,Mid-Value,2024,October,31,5,4,4
+100003,1096,159,Clothing,11.73,2,23.46,18-May-22,05:24:55,PM,India,Low-Value,2022,May,31,3,2,5
+100004,1639,42,Electronics,743.98,2,1487.96,25-Jan-24,05:51:54,AM,Canada,High-Value,2024,January,31,4,1,5
+100008,331,445,Beauty,64.26,2,128.52,18-Nov-24,08:30:48,PM,Spain,Low-Value,2024,November,30,4,4,8
+100017,2854,275,Home,192.75,2,385.5,23-Feb-24,02:18:48,AM,United States,Mid-Value,2024,February,29,4,1,2
+100020,956,326,Sports,108.22,2,216.44,25-Apr-22,09:38:26,PM,Germany,Mid-Value,2022,April,30,5,2,9
+100024,22,464,Electronics,387.57,2,775.14,16-Jun-23,10:49:49,AM,United States,High-Value,2023,June,30,3,2,10
+100025,2301,414,Toys,31.71,2,63.42,01-Jun-24,07:28:31,PM,United States,Low-Value,2024,June,30,1,2,7
+100029,1083,128,Sports,24.34,2,48.68,10-Sep-22,01:04:05,PM,Mexico,Low-Value,2022,September,30,2,3,1
+100039,1268,169,Grocery,23.45,2,46.9,16-Jul-22,06:40:52,PM,Australia,Low-Value,2022,July,31,3,3,6
+100055,2946,85,Clothing,109.26,2,218.52,13-Dec-22,04:47:29,AM,India,Mid-Value,2022,December,31,3,4,4
+100057,2140,182,Clothing,36.52,2,73.04,15-Apr-24,05:50:20,PM,South Africa,Low-Value,2024,April,30,3,2,5
+100060,2557,315,Grocery,33.67,2,67.34,19-Jan-24,02:31:46,PM,Germany,Low-Value,2024,January,31,3,1,2
+100072,2778,193,Clothing,67.57,2,135.14,20-Nov-22,03:50:35,PM,United States,Low-Value,2022,November,30,4,4,3
+100076,1982,132,Clothing,74.11,2,148.22,24-Dec-22,03:06:29,AM,Mexico,Low-Value,2022,December,31,4,4,3
+100077,996,355,Electronics,194.19,2,388.38,28-Jan-24,04:13:58,PM,United States,Mid-Value,2024,January,31,5,1,4
+100092,380,169,Electronics,190.26,2,380.52,14-Aug-24,11:26:19,AM,Canada,Mid-Value,2024,August,31,3,3,11
+100102,1496,31,Toys,64.95,2,129.9,20-Jun-24,02:00:28,AM,Canada,Low-Value,2024,June,30,4,2,2
+100103,1163,314,Clothing,34.67,2,69.34,07-Feb-24,04:06:36,PM,India,Low-Value,2024,February,29,2,1,4
+100115,201,220,Clothing,48.56,2,97.12,01-Nov-24,02:19:34,AM,Germany,Low-Value,2024,November,30,1,4,2
+100127,1571,9,Books,28.78,2,57.56,11-May-24,09:21:16,PM,India,Low-Value,2024,May,31,2,2,9
+100128,961,190,Electronics,302.55,2,605.1,25-Mar-25,05:56:20,PM,United Kingdom,High-Value,2025,March,31,5,1,5
+100129,2661,350,Electronics,210.35,2,420.7,09-Jul-22,10:43:23,PM,United States,Mid-Value,2022,July,31,2,3,10
+100130,1486,405,Home,187.93,2,375.86,06-Feb-24,03:20:01,AM,Spain,Mid-Value,2024,February,29,2,1,3
+100132,1029,165,Sports,89.64,2,179.28,17-May-23,02:46:31,AM,United States,Mid-Value,2023,May,31,3,2,2
+100139,207,110,Home,133.01,2,266.02,13-Oct-24,08:18:32,AM,United States,Mid-Value,2024,October,31,3,4,8
+100159,1723,205,Sports,160.09,2,320.18,01-Apr-23,10:22:40,PM,United Kingdom,Mid-Value,2023,April,30,1,2,10
+100161,2626,73,Books,31.36,2,62.72,24-Jul-22,07:13:13,PM,United Kingdom,Low-Value,2022,July,31,5,3,7
+100168,1644,410,Clothing,42.75,2,85.5,15-Jan-23,04:57:42,PM,Australia,Low-Value,2023,January,31,3,1,4
+100170,1982,106,Toys,43.62,2,87.24,07-Oct-24,07:17:45,AM,Canada,Low-Value,2024,October,31,2,4,7
+100175,1497,275,Clothing,39.79,2,79.58,24-Feb-23,08:44:18,AM,Brazil,Low-Value,2023,February,28,4,1,8
+100177,1409,211,Books,16.35,2,32.7,10-Oct-22,09:32:06,PM,France,Low-Value,2022,October,31,3,4,9
+100182,973,28,Electronics,322.93,2,645.86,21-Jul-23,04:20:04,PM,Brazil,High-Value,2023,July,31,4,3,4
+100184,1283,66,Home,139.91,2,279.82,16-Jan-25,09:52:42,AM,India,Mid-Value,2025,January,31,3,1,9
+100187,1435,470,Home,59.98,2,119.96,06-Jun-23,11:17:20,AM,Mexico,Low-Value,2023,June,30,2,2,11
+100195,1496,84,Electronics,88.31,2,176.62,03-Nov-24,05:28:49,AM,United Kingdom,Mid-Value,2024,November,30,2,4,5
+100198,1521,33,Clothing,23.34,2,46.68,25-Jun-23,05:11:30,AM,France,Low-Value,2023,June,30,5,2,5
+100208,2268,144,Home,23.63,2,47.26,22-Aug-24,07:03:16,PM,United States,Low-Value,2024,August,31,4,3,7
+100210,855,209,Home,378.42,2,756.84,09-Mar-25,11:11:35,PM,United Kingdom,High-Value,2025,March,31,3,1,11
+100218,1696,84,Home,67.52,2,135.04,07-Nov-23,04:09:32,AM,United States,Low-Value,2023,November,30,2,4,4
+100227,294,49,Books,7.29,2,14.58,30-Apr-25,04:33:45,AM,Mexico,Low-Value,2025,April,30,5,2,4
+100228,2328,307,Grocery,24.85,2,49.7,28-May-25,10:15:15,AM,United States,Low-Value,2025,May,31,5,2,10
+100239,660,206,Books,12.5,2,25,13-Dec-22,10:53:00,PM,India,Low-Value,2022,December,31,3,4,10
+100240,2812,94,Beauty,50.54,2,101.08,08-May-22,02:15:01,AM,Canada,Low-Value,2022,May,31,2,2,2
+100241,1956,225,Grocery,4.46,2,8.92,28-Apr-22,03:08:35,AM,United States,Low-Value,2022,April,30,5,2,3
+100244,1987,463,Clothing,42.69,2,85.38,15-Feb-22,11:49:08,PM,Italy,Low-Value,2022,February,28,3,1,11
+100252,1960,430,Sports,83.57,2,167.14,10-May-25,03:30:55,AM,Spain,Mid-Value,2025,May,31,2,2,3
+100261,2199,473,Beauty,14.42,2,28.84,04-Apr-22,08:41:40,PM,Canada,Low-Value,2022,April,30,2,2,8
+100271,2050,328,Books,16.56,2,33.12,11-Aug-25,10:35:08,AM,Mexico,Low-Value,2025,August,31,3,3,10
+100274,2302,73,Clothing,10.62,2,21.24,15-Jul-23,12:16:22,PM,Japan,Low-Value,2023,July,31,3,3,12
+100277,2057,343,Electronics,450.06,2,900.12,29-Jan-25,12:44:53,AM,Italy,High-Value,2025,January,31,5,1,12
+100279,2864,55,Toys,15.95,2,31.9,29-Sep-23,07:20:20,PM,Canada,Low-Value,2023,September,30,5,3,7
+100280,2256,61,Beauty,27.97,2,55.94,03-Feb-25,09:28:34,PM,United Kingdom,Low-Value,2025,February,28,2,1,9
+100283,2200,272,Grocery,13.34,2,26.68,14-Jan-22,06:19:06,PM,United States,Low-Value,2022,January,31,3,1,6
+100287,587,116,Books,32.19,2,64.38,25-Dec-24,07:14:58,AM,United States,Low-Value,2024,December,31,4,4,7
+100300,878,338,Grocery,50.02,2,100.04,26-May-23,07:32:28,AM,Canada,Low-Value,2023,May,31,4,2,7
+100305,161,111,Home,135.94,2,271.88,20-Mar-23,11:10:10,AM,Japan,Mid-Value,2023,March,31,4,1,11
+100326,2278,421,Grocery,5.98,2,11.96,29-Mar-23,02:04:04,PM,Australia,Low-Value,2023,March,31,5,1,2
+100342,17,411,Clothing,75.98,2,151.96,21-Apr-22,10:35:11,PM,France,Mid-Value,2022,April,30,4,2,10
+100353,302,393,Books,23.06,2,46.12,02-Mar-25,04:11:54,AM,India,Low-Value,2025,March,31,2,1,4
+100354,181,141,Books,10.86,2,21.72,04-Feb-23,08:47:02,AM,Netherlands,Low-Value,2023,February,28,1,1,8
+100361,981,110,Grocery,16.04,2,32.08,30-Nov-23,03:55:22,AM,United States,Low-Value,2023,November,30,5,4,3
+100362,2976,196,Grocery,33.14,2,66.28,25-Jan-23,07:24:08,AM,France,Low-Value,2023,January,31,4,1,7
+100366,2066,243,Toys,80.67,2,161.34,09-Apr-25,10:02:16,AM,Spain,Mid-Value,2025,April,30,2,2,10
+100369,2614,10,Toys,70.76,2,141.52,08-Jun-23,03:36:43,PM,United States,Low-Value,2023,June,30,2,2,3
+100371,1347,148,Toys,39.68,2,79.36,12-Feb-25,11:53:39,AM,United States,Low-Value,2025,February,28,3,1,11
+100373,2734,365,Electronics,146.53,2,293.06,18-Feb-22,08:05:38,AM,United States,Mid-Value,2022,February,28,3,1,8
+100380,785,492,Sports,44.1,2,88.2,28-Apr-23,11:58:48,AM,Australia,Low-Value,2023,April,30,5,2,11
+100385,538,25,Grocery,9.47,2,18.94,13-Aug-23,08:57:14,AM,Canada,Low-Value,2023,August,31,3,3,8
+100387,1842,405,Electronics,163.69,2,327.38,06-Jun-22,01:48:34,AM,United States,Mid-Value,2022,June,30,2,2,1
+100391,2876,201,Electronics,275.8,2,551.6,28-Mar-23,08:58:27,AM,Netherlands,High-Value,2023,March,31,5,1,8
+100400,2702,14,Books,16.47,2,32.94,15-Jan-25,01:41:45,AM,United States,Low-Value,2025,January,31,3,1,1
+100401,972,257,Beauty,64.88,2,129.76,24-Jun-24,08:48:03,AM,India,Low-Value,2024,June,30,5,2,8
+100407,1824,389,Beauty,30.83,2,61.66,27-Nov-23,12:16:55,PM,Japan,Low-Value,2023,November,30,5,4,12
+100416,2618,144,Clothing,82.18,2,164.36,17-Aug-24,05:10:40,PM,Germany,Mid-Value,2024,August,31,3,3,5
+100422,2492,346,Electronics,178.36,2,356.72,08-Jul-24,06:51:25,PM,Brazil,Mid-Value,2024,July,31,2,3,6
+100447,1811,476,Clothing,30.36,2,60.72,17-May-22,09:10:52,PM,Brazil,Low-Value,2022,May,31,3,2,9
+100461,513,369,Sports,225.91,2,451.82,17-Aug-24,10:16:26,AM,United States,Mid-Value,2024,August,31,3,3,10
+100465,560,215,Toys,76.68,2,153.36,24-Jul-23,10:50:28,AM,Canada,Mid-Value,2023,July,31,5,3,10
+100491,2389,351,Home,73.24,2,146.48,15-Jul-25,02:00:34,AM,Italy,Low-Value,2025,July,31,3,3,2
+100494,1313,319,Home,91.6,2,183.2,19-Aug-22,11:23:22,PM,Netherlands,Mid-Value,2022,August,31,3,3,11
+100495,1758,229,Beauty,18.88,2,37.76,01-Mar-25,07:37:54,PM,United Kingdom,Low-Value,2025,March,31,1,1,7
+100010,2136,334,Toys,6.58,4,26.32,19-Feb-22,10:03:45,PM,France,Low-Value,2022,February,28,3,1,10
+100018,2434,179,Home,98.14,4,392.56,28-Dec-24,05:33:41,PM,Canada,Mid-Value,2024,December,31,4,4,5
+100040,2880,484,Beauty,14.69,4,58.76,08-Jun-22,03:46:55,PM,United States,Low-Value,2022,June,30,2,2,3
+100041,1529,23,Electronics,369.88,5,1849.4,06-Feb-25,01:21:16,AM,Australia,High-Value,2025,February,28,2,1,1
+100045,2215,322,Sports,92.81,5,464.05,18-Jan-23,06:53:14,AM,Netherlands,Mid-Value,2023,January,31,3,1,6
+100046,1298,194,Electronics,292.93,5,1464.65,14-Feb-23,09:35:44,PM,France,High-Value,2023,February,28,3,1,9
+100047,2436,144,Electronics,275.29,4,1101.16,07-Dec-24,09:17:28,AM,United Kingdom,High-Value,2024,December,31,1,4,9
+100052,2042,169,Electronics,63.16,3,189.48,31-Jan-23,05:23:01,AM,France,Mid-Value,2023,January,31,5,1,5
+100070,703,421,Home,100.34,3,301.02,25-Jan-24,03:45:48,AM,Netherlands,Mid-Value,2024,January,31,4,1,3
+100099,1153,418,Home,270.33,3,810.99,27-Nov-23,01:13:27,PM,India,High-Value,2023,November,30,5,4,1
+100104,1523,104,Clothing,37.63,3,112.89,08-Dec-24,05:10:56,AM,Brazil,Low-Value,2024,December,31,2,4,5
+100105,2641,170,Electronics,399.84,5,1999.2,10-Jun-22,10:56:29,AM,Australia,High-Value,2022,June,30,2,2,10
+100108,419,210,Sports,40.99,3,122.97,20-May-23,03:23:38,AM,Canada,Low-Value,2023,May,31,3,2,3
+100109,2337,414,Home,135.38,3,406.14,17-Nov-23,05:41:24,PM,United States,Mid-Value,2023,November,30,3,4,5
+100114,2183,200,Home,163.66,3,490.98,10-May-25,04:01:53,AM,Spain,Mid-Value,2025,May,31,2,2,4
+100116,1864,136,Beauty,65.06,3,195.18,02-Sep-22,07:28:50,PM,India,Mid-Value,2022,September,30,1,3,7
+100118,2978,3,Sports,92.41,3,277.23,10-Jan-23,03:29:36,PM,Germany,Mid-Value,2023,January,31,2,1,3
+100126,2774,499,Clothing,48.47,3,145.41,13-Jun-25,03:38:29,PM,United States,Low-Value,2025,June,30,2,2,3
+100131,2691,460,Clothing,33.68,3,101.04,19-May-25,05:18:43,AM,Mexico,Low-Value,2025,May,31,4,2,5
+100138,393,175,Home,201.27,3,603.81,16-Apr-23,12:46:33,PM,United Kingdom,High-Value,2023,April,30,4,2,12
+100149,1924,94,Books,16.59,3,49.77,09-Mar-22,05:09:21,PM,Netherlands,Low-Value,2022,March,31,2,1,5
+100153,2797,347,Sports,279.84,3,839.52,21-Nov-24,01:30:40,AM,United States,High-Value,2024,November,30,4,4,1
+100157,2573,324,Clothing,110.26,5,551.3,29-Apr-25,09:55:39,AM,India,High-Value,2025,April,30,5,2,9
+100179,1307,77,Electronics,185.42,3,556.26,20-Apr-22,11:25:08,AM,France,High-Value,2022,April,30,4,2,11
+100183,1769,245,Toys,30.06,4,120.24,15-Oct-24,12:38:07,AM,Australia,Low-Value,2024,October,31,3,4,12
+100188,649,205,Clothing,14,4,56,12-Jun-24,02:13:55,AM,Mexico,Low-Value,2024,June,30,3,2,2
+100197,1854,352,Clothing,40.17,4,160.68,14-Dec-24,09:59:14,AM,United States,Mid-Value,2024,December,31,2,4,9
+100201,1292,158,Books,26.55,3,79.65,16-Jul-22,08:46:21,AM,Canada,Low-Value,2022,July,31,3,3,8
+100209,1590,450,Electronics,713.73,4,2854.92,26-Jan-24,08:01:24,AM,Canada,High-Value,2024,January,31,4,1,8
+100211,1760,224,Clothing,90.25,3,270.75,13-Jan-22,12:53:34,PM,United States,Mid-Value,2022,January,31,3,1,12
+100220,1440,334,Beauty,19.82,5,99.1,04-Nov-24,06:58:04,PM,India,Low-Value,2024,November,30,2,4,6
+100221,2295,464,Books,17.38,3,52.14,11-Jun-23,04:16:36,AM,United States,Low-Value,2023,June,30,3,2,4
+100233,2192,332,Clothing,107.77,3,323.31,12-Mar-24,09:40:17,AM,Netherlands,Mid-Value,2024,March,31,3,1,9
+100238,1795,279,Grocery,36.52,4,146.08,17-Jun-24,03:18:08,AM,India,Low-Value,2024,June,30,4,2,3
+100249,1844,46,Grocery,35.01,3,105.03,16-Jun-24,11:18:16,PM,Italy,Low-Value,2024,June,30,4,2,11
+100251,2977,230,Sports,224.19,3,672.57,12-Dec-23,07:33:23,AM,United States,High-Value,2023,December,31,3,4,7
+100255,2386,246,Beauty,74.58,3,223.74,15-Aug-23,02:09:20,AM,Mexico,Mid-Value,2023,August,31,3,3,2
+100262,1439,52,Home,47.32,3,141.96,07-May-22,12:13:41,PM,China,Low-Value,2022,May,31,1,2,12
+100264,263,88,Home,21.36,4,85.44,15-Dec-23,04:37:30,AM,United States,Low-Value,2023,December,31,3,4,4
+100268,624,150,Home,32.35,3,97.05,30-Jun-24,03:39:22,AM,Japan,Low-Value,2024,June,30,6,2,3
+100290,1446,193,Toys,30.85,3,92.55,07-Jun-24,05:00:23,AM,Australia,Low-Value,2024,June,30,2,2,5
+100302,2870,10,Grocery,43.4,3,130.2,28-Dec-24,03:59:40,PM,India,Low-Value,2024,December,31,4,4,3
+100309,1301,283,Clothing,91.27,3,273.81,11-Jun-23,01:45:34,PM,India,Mid-Value,2023,June,30,3,2,1
+100311,1528,113,Toys,59.31,5,296.55,09-Feb-25,11:33:06,PM,South Africa,Mid-Value,2025,February,28,3,1,11
+100313,1416,71,Clothing,22.44,5,112.2,20-Jun-23,09:16:33,AM,United States,Low-Value,2023,June,30,4,2,9
+100330,2075,41,Home,62.46,5,312.3,16-May-24,11:19:32,PM,Canada,Mid-Value,2024,May,31,3,2,11
+100335,960,279,Books,42.53,3,127.59,14-May-25,11:39:55,PM,United States,Low-Value,2025,May,31,3,2,11
+100337,453,469,Grocery,26.82,3,80.46,22-Nov-24,06:12:32,AM,France,Low-Value,2024,November,30,4,4,6
+100338,816,400,Sports,67.75,4,271,29-Mar-23,09:57:08,PM,Brazil,Mid-Value,2023,March,31,5,1,9
+100344,2206,320,Clothing,104.97,3,314.91,27-Dec-23,06:44:11,PM,Netherlands,Mid-Value,2023,December,31,5,4,6
+100347,2566,38,Grocery,29.32,5,146.6,22-Sep-23,09:34:58,AM,United Kingdom,Low-Value,2023,September,30,4,3,9
+100351,2328,191,Toys,32.87,3,98.61,18-Nov-22,01:57:42,PM,France,Low-Value,2022,November,30,3,4,1
+100368,1759,105,Clothing,76.74,3,230.22,27-Aug-24,10:11:30,AM,United Kingdom,Mid-Value,2024,August,31,5,3,10
+100374,626,364,Electronics,679.66,5,3398.3,16-Jan-23,01:04:49,AM,Germany,High-Value,2023,January,31,3,1,1
+100381,246,496,Clothing,67.34,3,202.02,12-Jul-22,10:40:47,AM,Australia,Mid-Value,2022,July,31,3,3,10
+100384,2807,340,Books,7.81,5,39.05,15-Jan-22,03:25:24,AM,France,Low-Value,2022,January,31,3,1,3
+100390,525,320,Electronics,599.22,5,2996.1,07-Nov-22,10:28:42,AM,Spain,High-Value,2022,November,30,2,4,10
+100404,1167,443,Clothing,25.49,3,76.47,15-Jan-24,09:07:54,AM,France,Low-Value,2024,January,31,3,1,9
+100418,1716,386,Books,13.12,5,65.6,28-Nov-22,06:30:33,AM,Japan,Low-Value,2022,November,30,5,4,6
+100424,2312,345,Electronics,196.5,3,589.5,17-Sep-23,11:57:56,AM,United States,High-Value,2023,September,30,4,3,11
+100431,992,270,Sports,109.55,5,547.75,23-Sep-22,07:46:18,AM,Mexico,High-Value,2022,September,30,4,3,7
+100433,47,152,Grocery,1.78,3,5.34,06-Jul-24,07:56:38,AM,United States,Low-Value,2024,July,31,1,3,7
+100436,2984,399,Electronics,483,3,1449,14-Jun-22,05:23:07,AM,Netherlands,High-Value,2022,June,30,3,2,5
+100441,1130,283,Clothing,16.42,5,82.1,05-Jul-22,01:06:34,PM,France,Low-Value,2022,July,31,2,3,1
+100443,1683,355,Beauty,54.79,4,219.16,01-Apr-25,07:24:56,PM,Australia,Mid-Value,2025,April,30,1,2,7
+100444,657,215,Toys,80.03,3,240.09,05-Jun-22,10:54:10,AM,Australia,Mid-Value,2022,June,30,2,2,10
+100446,831,328,Beauty,70.86,4,283.44,05-May-23,10:17:26,PM,Netherlands,Mid-Value,2023,May,31,1,2,10
+100448,1082,23,Clothing,45.42,3,136.26,27-Sep-24,01:51:06,AM,Canada,Low-Value,2024,September,30,4,3,1
+100449,1975,68,Toys,18.9,3,56.7,28-Aug-24,08:26:27,AM,United States,Low-Value,2024,August,31,5,3,8
+100451,741,447,Electronics,462.47,3,1387.41,15-Feb-23,07:54:14,AM,United States,High-Value,2023,February,28,3,1,7
+100469,704,207,Beauty,30.11,5,150.55,25-Apr-23,02:13:15,AM,Italy,Mid-Value,2023,April,30,5,2,2
+100472,2838,380,Toys,54.42,5,272.1,06-Sep-24,06:14:41,PM,United States,Mid-Value,2024,September,30,1,3,6
+100475,154,237,Home,135.61,5,678.05,11-Oct-23,06:26:26,AM,United States,High-Value,2023,October,31,2,4,6
+100484,958,444,Beauty,69.5,5,347.5,10-Jul-22,05:11:05,AM,Australia,Mid-Value,2022,July,31,3,3,5
+100485,453,73,Clothing,59.91,5,299.55,15-Jun-23,12:00:52,AM,Canada,Mid-Value,2023,June,30,3,2,12
+100488,2266,28,Toys,12.64,4,50.56,27-May-23,02:09:08,AM,Germany,Low-Value,2023,May,31,4,2,2
+100497,2071,477,Beauty,87.98,3,263.94,24-May-23,09:36:24,PM,United States,Mid-Value,2023,May,31,4,2,9
+100498,1786,210,Home,87.99,3,263.97,28-Feb-24,11:34:30,PM,Japan,Mid-Value,2024,February,29,5,1,11
